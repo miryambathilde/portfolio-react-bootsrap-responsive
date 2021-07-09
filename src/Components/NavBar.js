@@ -40,7 +40,7 @@ function Navbar() {
 
                 <footer className="footer">
                     <p>
-                        @2021 Lorem Ipsum
+                    &copy; 2021 Miryam Bathilde
                     </p>
             </footer>
             </nav>
